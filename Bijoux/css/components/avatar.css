@@ -1,0 +1,5 @@
+.avatar {
+    width: 150px;
+    clip-path: ellipse(50% 40%);
+    margin: 10px 0;
+}
